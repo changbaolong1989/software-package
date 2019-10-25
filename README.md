@@ -1,2 +1,2 @@
 # software-package
-软件包
+software-package
